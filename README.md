@@ -24,7 +24,7 @@ thereby reducing financial losses due to fraud and improving overall transaction
 
 ## Content
 The dataset shows credit card transactions from European cardholders in September 2013.
-It consists solely of numerical input variables, which have been derived through a Principal Component Analysis (PCA) transformation, reducing the original feature set into a more compact and simplified form."
+It consists solely of numerical input variables, which have been derived through a Principal Component Analysis (PCA) transformation, reducing the original feature set into a more compact and simplified form.
 
 ## Motivation
 Credit card fraud is a significant concern for financial institutions and individuals alike, 
