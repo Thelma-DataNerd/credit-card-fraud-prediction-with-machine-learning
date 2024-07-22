@@ -5,8 +5,8 @@
 - [Objectives](#Objectives)
 - [Content](#Content)
 - [Motivation](#Motivation)
-- [Steps Taken](#Steps Taken)
-- [Data Source](#Data Source)
+- [Problem Solving Steps](#Problem Solving Steps)
+- [Source of Dataset](#Source of Dataset)
 
 
 
@@ -32,7 +32,7 @@ resulting in substantial financial losses annually. Traditional rule-based syste
 This project leverages machine learning techniques to build a robust fraud detection model, 
 enabling more accurate and efficient identification of fraudulent transactions.
 
-## Steps Taken
+## Problem Solving Steps:
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 - Preprocessing
@@ -40,6 +40,6 @@ enabling more accurate and efficient identification of fraudulent transactions.
 - Model evaluation using AUC-ROC and other metrics
 - Comparison with Decision Tree and Random Forest models
 
-## Data source
+## Source of Dataset
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
