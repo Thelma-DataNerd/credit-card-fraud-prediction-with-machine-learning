@@ -1,18 +1,45 @@
-## Fraud Detection Model for Credit Card Transactions 
+# Fraud Detection Model for Credit Card Transactions 
 
-#### Overview
+## Table of Contents
+- [Overview](#Overview)
+- [Objectives](#Objectives)
+- [Content](#Content)
+- [Motivation](#Motivation)
+- [Steps Taken](#Steps Taken)
+- [Data Source](#Data Source)
+
+
+
+<img src="https://raw.githubusercontent.com/Explore-AI/Pictures/master/credit_card.jpg alt="Data Cleaning" width="500"/>
+
+## Overview
 This project aims to develop a machine learning model for detecting fraudulent credit card transactions. 
 The goal is to predict the likelihood of a transaction being fraudulent or legitimate, 
 thereby reducing financial losses due to fraud and improving overall transaction security.
 
-#### Motivation
+## Objectivies:
+- For flagging suspicious transactions for further review
+- Reduce financial losses due to fraud
+- Reduce financial losses due to fraud and enhance overall transaction security
+
+## Content
+The dataset shows credit card transactions from European cardholders in September 2013.
+It consists solely of numerical input variables, which have been derived through a Principal Component Analysis (PCA) transformation, reducing the original feature set into a more compact and simplified form."
+
+## Motivation
 Credit card fraud is a significant concern for financial institutions and individuals alike, 
 resulting in substantial financial losses annually. Traditional rule-based systems often struggle to keep pace with the evolving nature of fraud patterns. 
 This project leverages machine learning techniques to build a robust fraud detection model, 
 enabling more accurate and efficient identification of fraudulent transactions.
 
- #### Objectives
-- Develop a machine learning model that can predict the likelihood of a credit card transaction being fraudulent or legitimate
-- Improve the accuracy of fraud detection compared to traditional rule-based systems
-- Reduce financial losses due to fraud and enhance overall transaction security
+## Steps Taken:
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Preprocessing
+- Logistic Regression modeling
+- Model evaluation using AUC-ROC and other metrics
+- Comparison with Decision Tree and Random Forest models
+
+## Data source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
